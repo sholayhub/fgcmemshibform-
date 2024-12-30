@@ -1,0 +1,87 @@
+.setting{
+    background-color: aquamarine;
+    border: 2px;
+    width: 1500px;
+    height: 1500px;
+    margin: auto;
+}
+body{
+    background-color: rgb(222, 226, 215);
+
+}
+img{
+    
+    background-color: rgb(177, 117, 117); size: 200px;
+  width: 80px; /* Adjust width as needed */
+  height: 80px; /* Maintain aspect ratio */ 
+  margin: 12px; 
+  margin-top: .00px;
+}
+input{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    align-items: right;
+}
+label{
+    right: 20px;
+    margin-top: 40px;
+}
+
+h1 {
+  color:white; 
+  background-color: rgb(197, 209, 212);
+}
+p.inpact{
+    background-color:rgb(55, 41, 185);
+    margin-top: 2px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 250px;
+    height: 290px;
+
+}
+table{
+    margin-left: 40px;
+
+}
+.main{
+    background-color: blue; 
+    width: 1000px;
+    height: 100px;
+    color: white;
+    font-size: 2rex;
+    margin-left: 20px;
+    }
+    .ministries{
+        background-color: red;
+        width: 1000px;
+        height: 120px;
+        color: white;
+        margin-top: 20px;
+        margin-left: 20px;
+.background{
+    background-color: skyblue;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+}
+    }
+           
+p.big{
+    background-color: gray;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+    .table{
+        background-color: yellow;
+        width: 1000px;
+        height: 120px;
+        color: black;
+        margin-top: 30px;
+    }
+
+    
+   .form{
+        border-radius: 15px;
+    }
